@@ -1,4 +1,25 @@
+html
+{
+	position: relative;
+	min-width: 100%;
+	min-height: 100%;
+}
 body{
-
-	#cabezeratop
+	margin:0 0 65px;
+}
+#cabezeratop{
+	width: auto;
+	margin: 0 auto;
+	background: #4b4d51;
+	color: white;
+}
+#cabezerabot{
+	width: auto;
+	height: 25px;
+	background: black;
+}
+#piebot{
+	width: auto;
+	background: black;
+	color: white;
 }
